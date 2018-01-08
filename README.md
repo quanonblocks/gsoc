@@ -1,2 +1,3 @@
 # gsoc2018
-Quanonblocks project in Google Summer of Code 2018
+
+GSoC Project ideas can be found in [wiki](https://github.com/quanonblocks/gsoc2018/wiki).
